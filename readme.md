@@ -43,7 +43,7 @@ pip install requests beautifulsoup4 pandas openpyxl
 
 #### 运行示例：
 ```
-python fetch_paper.py --keywords blockchain --categories 1,2,3,4,5 --level A
+python fetch_papers.py --keywords blockchain --categories 1,2,3,4,5 --level A
 ```
 运行日志及结果见`/example`目录，运行用时`26min 55s`
 
