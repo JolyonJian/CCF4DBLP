@@ -19,7 +19,7 @@ example/                    # 一个运行示例
 # 运行后生成
 output/                     # 检索结果的保存位置
     papers_results.xlsx     # 检索结果文件，包含符合要求的论文信息
-	fetch_papers.log        # 日志文件，记录检索过程的详细运行信息
+    fetch_papers.log        # 日志文件，记录检索过程的详细运行信息
 ```
 
 ### 依赖配置
