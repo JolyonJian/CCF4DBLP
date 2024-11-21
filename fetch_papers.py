@@ -166,9 +166,7 @@ def parse_paper_entries(url, abbr, name, year, keywords, entry_type):
             continue
 
         title = title_tag.text.strip()
-        doi = next((a['href'] for a in entry.find_all(
-            'a', href=True) if 'doi' in a['href']), '')
-
+        doi = entry.find_next('nav', class_='publ').find_next('li', class_='drop-down').find_next('a')['href']
         for keyword in keywords:
             if keyword.lower() in title.lower():
                 papers.append({
@@ -288,8 +286,8 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     # Convert input keywords and selected journals to lists
-    keywords_list = [kw.strip() for kw in args.keywords.split(',')]
-    journals_list = [abbr.strip() for abbr in args.journals.split(
+    keywords_list = [kw.strip().replace('_', ' ') for kw in args.keywords.split(',')]
+    journals_list = [abbr.strip().replace('_', ' ') for abbr in args.journals.split(
         ',')] if args.journals else None
     categories_list = [cat.strip() for cat in args.categories.split(
         ',')] if args.categories else None
