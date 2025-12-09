@@ -48,8 +48,8 @@
 1,计算机体系结构/并行与分布计算/存储系统,TVLSI,IEEE Transactions on Very Large Scale Integration (VLSI) Systems,Journal,B,IEEE,http://dblp.uni-trier.de/db/journals/tvlsi/
 1,计算机体系结构/并行与分布计算/存储系统,JPDC,Journal of Parallel and Distributed Computing,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/jpdc/
 1,计算机体系结构/并行与分布计算/存储系统,JSA,Journal of Systems Architecture: Embedded Software Design,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/jsa/
-1,计算机体系结构/并行与分布计算/存储系统,,Parallel Computing,Journal,B,Elsevier,https://dblp.org/db/journals/pc/index.html
-1,计算机体系结构/并行与分布计算/存储系统,                   ,Performance Evaluation: An International Journal,Journal,B,Elsevier,https://dblp.org/db/journals/pe/index.html
+1,计算机体系结构/并行与分布计算/存储系统,Parallel Computing,Parallel Computing,Journal,B,Elsevier,https://dblp.org/db/journals/pc/index.html
+1,计算机体系结构/并行与分布计算/存储系统,Performance Evaluation: An International Journal,Performance Evaluation: An International Journal,Journal,B,Elsevier,https://dblp.org/db/journals/pe/index.html
 1,计算机体系结构/并行与分布计算/存储系统,CF,ACM International Conference on Computing Frontiers,Conference,C,ACM,http://dblp.uni-trier.de/db/conf/cf
 1,计算机体系结构/并行与分布计算/存储系统,SYSTOR,ACM International Systems and Storage Conference,Conference,C,ACM,http://dblp.uni-trier.de/db/conf/systor/index.html
 1,计算机体系结构/并行与分布计算/存储系统,NOCS,ACM/IEEE International Symposium on Networks-on-Chip,Conference,C,ACM/IEEE,http://dblp.uni-trier.de/db/conf/nocs
@@ -77,7 +77,7 @@
 1,计算机体系结构/并行与分布计算/存储系统,VTS,IEEE VLSI Test Symposium,Conference,C,IEEE,http://dblp.uni-trier.de/db/conf/vts/
 1,计算机体系结构/并行与分布计算/存储系统,ITC-Asia,International Test Conference in Asia,Conference,C,IEEE,https://dblp.org/db/conf/itc-asia/index.html
 1,计算机体系结构/并行与分布计算/存储系统,JETC,ACM Journal on Emerging Technologies in Computing Systems,Journal,C,ACM,http://dblp.uni-trier.de/db/journals/jetc/
-1,计算机体系结构/并行与分布计算/存储系统,,Concurrency and Computation: Practice and Experience,Journal,C,Wiley,http://dblp.uni-trier.de/db/journals/concurrency/
+1,计算机体系结构/并行与分布计算/存储系统,Concurrency and Computation: Practice and Experience,Concurrency and Computation: Practice and Experience,Journal,C,Wiley,http://dblp.uni-trier.de/db/journals/concurrency/
 1,计算机体系结构/并行与分布计算/存储系统,DC,Distributed Computing,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/dc/
 1,计算机体系结构/并行与分布计算/存储系统,FGCS,Future Generation Computer Systems,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/fgcs/
 1,计算机体系结构/并行与分布计算/存储系统,TCC,IEEE Transactions on Cloud Computing,Journal,C,IEEE,https://dblp.uni-trier.de/db/journals/tcc/
@@ -132,16 +132,16 @@
 2,计算机网络,WASA,"International Conference on Wireless Algorithms, Systems, and Applications",Conference,C,Springer,http://dblp.uni-trier.de/db/conf/wasa/
 2,计算机网络,HotNets,ACM The Workshop on Hot Topics in Networks,Conference,C,ACM,http://dblp.uni-trier.de/db/conf/hotnets/
 2,计算机网络,APNet,Asia-Pacific Workshop on Networking,Conference,C,ACM,https://dblp.org/db/conf/apnet/index.html
-2,计算机网络,,Ad hoc Networks,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/adhoc/
+2,计算机网络,Ad hoc Networks,Ad hoc Networks,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/adhoc/
 2,计算机网络,CC,Computer Communications,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/comcom/
 2,计算机网络,TNSM,IEEE Transactions on Network and Service Management,Journal,C,IEEE,http://dblp.uni-trier.de/db/journals/tnsm/
-2,计算机网络,,IET Communications,Journal,C,IET,http://dblp.uni-trier.de/db/journals/iet-com/
+2,计算机网络,IET Communications,IET Communications,Journal,C,IET,http://dblp.uni-trier.de/db/journals/iet-com/
 2,计算机网络,JNCA,Journal of Network and Computer Applications,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/jnca/
 2,计算机网络,MONET,Mobile Networks and Applications,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/monet/
-2,计算机网络,,Networks,Journal,C,Wiley,http://dblp.uni-trier.de/db/journals/networks/
+2,计算机网络,Networks,Networks,Journal,C,Wiley,http://dblp.uni-trier.de/db/journals/networks/
 2,计算机网络,PPNA,Peer-to-Peer Networking and Applications,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/ppna/
 2,计算机网络,WCMC,Wireless Communications and Mobile Computing,Journal,C,Wiley.,http://dblp.uni-trier.de/db/journals/wicomm/
-2,计算机网络,,Wireless Networks,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/winet/
+2,计算机网络,Wireless Networks,Wireless Networks,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/winet/
 2,计算机网络,IOT,IEEE Internet of Things Journal,Journal,C,IEEE,https://dblp.org/db/journals/iot/index.html
 3,网络与信息安全,CCS,ACM Conference on Computer and Communications Security,Conference,A,ACM,http://dblp.uni-trier.de/db/conf/ccs/
 3,网络与信息安全,EUROCRYPT,International Conference on the Theory and Applications of Cryptographic Techniques,Conference,A,Springer,http://dblp.uni-trier.de/db/conf/eurocrypt/
@@ -151,7 +151,7 @@
 3,网络与信息安全,NDSS,Network and Distributed System Security Symposium,Conference,A,ISOC,http://dblp.uni-trier.de/db/conf/ndss/
 3,网络与信息安全,TDSC,IEEE Transactions on Dependable and Secure Computing,Journal,A,IEEE,http://dblp.uni-trier.de/db/journals/tdsc/
 3,网络与信息安全,TIFS,IEEE Transactions on Information Forensics and Security,Journal,A,IEEE,http://dblp.uni-trier.de/db/journals/tifs/
-3,网络与信息安全,,Journal of Cryptology,Journal,A,Springer,http://dblp.uni-trier.de/db/journals/joc/
+3,网络与信息安全,Journal of Cryptology,Journal of Cryptology,Journal,A,Springer,http://dblp.uni-trier.de/db/journals/joc/
 3,网络与信息安全,ACSAC,Annual Computer Security Applications Conference,Conference,B,IEEE,http://dblp.uni-trier.de/db/conf/acsac/
 3,网络与信息安全,ASIACRYPT,Annual International Conference on the Theory and Application of Cryptology and Information Security,Conference,B,Springer,http://dblp.uni-trier.de/db/conf/asiacrypt/
 3,网络与信息安全,ESORICS,European Symposium on Research in Computer Security,Conference,B,Springer,http://dblp.uni-trier.de/db/conf/esorics/
@@ -164,8 +164,8 @@
 3,网络与信息安全,PKC,International Workshop on Practice and Theory in Public Key Cryptography,Conference,B,Springer,http://dblp.uni-trier.de/db/conf/pkc/
 3,网络与信息安全,TCC,Theory of Cryptography Conference,Conference,B,Springer,http://dblp.uni-trier.de/db/conf/tcc/
 3,网络与信息安全,TOPS,ACM Transactions on Privacy and Security,Journal,B,ACM,https://dblp.org/db/journals/tissec/index.html
-3,网络与信息安全,,Computers & Security,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/compsec/
-3,网络与信息安全,,"Designs, Codes and Cryptography",Journal,B,Springer,http://dblp.uni-trier.de/db/journals/dcc/
+3,网络与信息安全,Computers & Security,Computers & Security,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/compsec/
+3,网络与信息安全,"Designs, Codes and Cryptography","Designs, Codes and Cryptography",Journal,B,Springer,http://dblp.uni-trier.de/db/journals/dcc/
 3,网络与信息安全,JCS,Journal of Computer Security,Journal,B,IOS Press,http://dblp.uni-trier.de/db/journals/jcs/
 3,网络与信息安全,WiSec,ACM Conference on Security and Privacy in Wireless and Mobile Networks,Conference,C,ACM,http://dblp.uni-trier.de/db/conf/wisec/
 3,网络与信息安全,SACMAT,ACM Symposium on Access Control Models and Technologies,Conference,C,ACM,http://dblp.uni-trier.de/db/conf/sacmat/
@@ -194,14 +194,14 @@
 3,网络与信息安全,EuroS&P,IEEE European Symposium on Security and Privacy,Conference,C,IEEE,https://dblp.org/db/conf/eurosp/index.html
 3,网络与信息安全,Inscrypt,International Conference on Information Security and Cryptology,Conference,C,Springer,https://dblp.org/db/conf/cisc/index.html
 3,网络与信息安全,CLSR,Computer Law & Security Review,Journal,C,Elsevier,https://dblp.org/db/journals/clsr/index.html
-3,网络与信息安全,,EURASIP Journal on Information Security,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/ejisec/
-3,网络与信息安全,,IET Information Security,Journal,C,IET,http://dblp.uni-trier.de/db/journals/iet-ifs/
+3,网络与信息安全,EURASIP Journal on Information Security,EURASIP Journal on Information Security,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/ejisec/
+3,网络与信息安全,IET Information Security,IET Information Security,Journal,C,IET,http://dblp.uni-trier.de/db/journals/iet-ifs/
 3,网络与信息安全,IMCS,Information and Computer Security,Journal,C,Emerald,http://dblp.uni-trier.de/db/journals/imcs/
 3,网络与信息安全,IJICS,International Journal of Information and Computer Security,Journal,C,Inderscience,http://dblp.uni-trier.de/db/journals/ijics/
 3,网络与信息安全,IJISP,International Journal of Information Security and Privacy,Journal,C,Idea Group Inc,http://dblp.uni-trier.de/db/journals/ijisp/
 3,网络与信息安全,JISA,Journal of Information Security and Applications,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/istr/
 3,网络与信息安全,SCN,Security and Communication Networks,Journal,C,Wiley,http://dblp.uni-trier.de/db/journals/scn/
-3,网络与信息安全,,Cybersecurity,Journal,C,Springer,https://dblp.uni-trier.de/db/journals/cybersec/index.html
+3,网络与信息安全,Cybersecurity,Cybersecurity,Journal,C,Springer,https://dblp.uni-trier.de/db/journals/cybersec/index.html
 4,软件工程/系统软件/程序设计语言,PLDI,ACM SIGPLAN Conference on Programming Language Design and   Implementation,Conference,A,ACM,http://dblp.uni-trier.de/db/conf/pldi/
 4,软件工程/系统软件/程序设计语言,POPL,ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,Conference,A,ACM,http://dblp.uni-trier.de/db/conf/popl/
 4,软件工程/系统软件/程序设计语言,FSE/ESEC,ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering,Conference,A,ACM ,http://dblp.uni-trier.de/db/conf/sigsoft/
@@ -240,7 +240,7 @@
 4,软件工程/系统软件/程序设计语言,IETS,IET Software,Journal,B,IET,http://dblp.uni-trier.de/db/journals/iee/index.html
 4,软件工程/系统软件/程序设计语言,IST,Information and Software Technology,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/infsof/index.html
 4,软件工程/系统软件/程序设计语言,JFP,Journal of Functional Programming,Journal,B,Cambridge University Press,http://dblp.uni-trier.de/db/journals/jfp/
-4,软件工程/系统软件/程序设计语言,,Journal of Software: Evolution and Process,Journal,B,Wiley,http://dblp.uni-trier.de/db/journals/smr/
+4,软件工程/系统软件/程序设计语言,Journal of Software: Evolution and Process,Journal of Software: Evolution and Process,Journal,B,Wiley,http://dblp.uni-trier.de/db/journals/smr/
 4,软件工程/系统软件/程序设计语言,JSS,Journal of Systems and Software,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/jss/
 4,软件工程/系统软件/程序设计语言,RE,Requirements Engineering,Journal,B,Springer,http://dblp.uni-trier.de/db/journals/re/
 4,软件工程/系统软件/程序设计语言,SCP,Science of Computer Programming,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/scp/
@@ -309,9 +309,9 @@
 5,数据库/数据挖掘/内容检索,DKE,Data & Knowledge Engineering,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/dke/
 5,数据库/数据挖掘/内容检索,DMKD,Data Mining and KnowledgeDiscovery,Journal,B,Springer,http://dblp.uni-trier.de/db/journals/datamine/
 5,数据库/数据挖掘/内容检索,EJIS,European Journal of Information Systems,Journal,B,The OR Society,http://dblp.uni-trier.de/db/journals/ejis/
-5,数据库/数据挖掘/内容检索,,GeoInformatica,Journal,B,Springer,http://dblp.uni-trier.de/db/journals/geoinformatica/
+5,数据库/数据挖掘/内容检索,GeoInformatica,GeoInformatica,Journal,B,Springer,http://dblp.uni-trier.de/db/journals/geoinformatica/
 5,数据库/数据挖掘/内容检索,IPM,Information Processing and Management,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/ipm/
-5,数据库/数据挖掘/内容检索,,Information Sciences,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/isci/
+5,数据库/数据挖掘/内容检索,Information Sciences,Information Sciences,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/isci/
 5,数据库/数据挖掘/内容检索,IS,Information Systems,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/is/
 5,数据库/数据挖掘/内容检索,JASIST,Journal of the Association for Information Science and Technology,Journal,B,Wiley,http://dblp.uni-trier.de/db/journals/jasis/
 5,数据库/数据挖掘/内容检索,JWS,Journal of Web Semantics,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/ws/
@@ -356,7 +356,7 @@
 6,计算机科学理论,ESA,European Symposium on Algorithms,Conference,B,Springer,http://dblp.uni-trier.de/db/conf/esa/
 6,计算机科学理论,CCC,Conference on Computational Complexity,Conference,B,IEEE,http://dblp.uni-trier.de/db/conf/coco/
 6,计算机科学理论,ICALP,"International Colloquium on Automata, Languages and Programming",Conference,B,Springer,http://dblp.uni-trier.de/db/conf/icalp/
-6,计算机科学理论,,International Conference on Automated Deduction/International Joint Conference on Automated Reasoning,Conference,B,Springer,http://dblp.uni-trier.de/db/conf/cade/
+6,计算机科学理论,International Conference on Automated Deduction/International Joint Conference on Automated Reasoning,International Conference on Automated Deduction/International Joint Conference on Automated Reasoning,Conference,B,Springer,http://dblp.uni-trier.de/db/conf/cade/
 6,计算机科学理论,CONCUR,International Conference on Concurrency Theory,Conference,B,Springer,http://dblp.uni-trier.de/db/conf/concur/
 6,计算机科学理论,HSCC,International Conference on Hybrid Systems: Computation and Control,Conference,B,Springer and ACM,http://dblp.uni-trier.de/db/conf/hybrid/
 6,计算机科学理论,SAT,International Conference on Theory and Applications of Satisfiability Testing,Conference,B,Springer,http://dblp.uni-trier.de/db/conf/sat/
@@ -395,7 +395,7 @@
 6,计算机科学理论,JSL,The Journal of Symbolic Logic,Journal,C,Association for Symbolic Logic,http://dblp.uni-trier.de/db/journals/jsyml/
 6,计算机科学理论,LMCS,Logical Methods in Computer Science,Journal,C,LMCS,http://dblp.uni-trier.de/db/journals/lmcs/
 6,计算机科学理论,SIDMA,SIAM Journal on Discrete Mathematics,Journal,C,SIAM,http://dblp.uni-trier.de/db/journals/siamdm/
-6,计算机科学理论,,Theory of Computing Systems,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/mst/
+6,计算机科学理论,Theory of Computing Systems,Theory of Computing Systems,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/mst/
 7,计算机图形学与多媒体,ACM MM,ACM International Conference on Multimedia,Conference,A,ACM,http://dblp.uni-trier.de/db/conf/mm/
 7,计算机图形学与多媒体,SIGGRAPH,ACM Special Interest Group on Computer Graphics,Conference,A,ACM,http://dblp.uni-trier.de/db/conf/siggraph/index.html
 7,计算机图形学与多媒体,VR,IEEE Virtual Reality,Conference,A,IEEE,http://dblp.uni-trier.de/db/conf/vr/
@@ -480,23 +480,23 @@
 8,人工智能,NAACL,North   American Chapter of the Associationfor Computational Linguistics,Conference,B,Association for Computational Linguistics,http://dblp.uni-trier.de/db/conf/naacl/
 8,人工智能,TAP,ACM Transactions on Applied Perception,Journal,B,ACM,http://dblp.uni-trier.de/db/journals/tap/
 8,人工智能,AAMAS,Autonomous Agents and Multi-Agent Systems,Journal,B,Springer,http://dblp.uni-trier.de/db/journals/aamas/
-8,人工智能,,Computational Linguistics,Journal,B,MIT Press,http://dblp.uni-trier.de/db/journals/coling/
+8,人工智能,Computational Linguistics,Computational Linguistics,Journal,B,MIT Press,http://dblp.uni-trier.de/db/journals/coling/
 8,人工智能,CVIU,Computer Vision and Image Understanding,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/cviu/
 8,人工智能,DKE,Data & Knowledge Engineering,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/dke/index.html
-8,人工智能,,Evolutionary Computation,Journal,B,MIT Press,http://dblp.uni-trier.de/db/journals/ec/
+8,人工智能,Evolutionary Computation,Evolutionary Computation,Journal,B,MIT Press,http://dblp.uni-trier.de/db/journals/ec/
 8,人工智能,TAC,IEEE Transactions on Affective Computing,Journal,B,IEEE,http://dblp.uni-trier.de/db/journals/taffco/
 8,人工智能,TASLP,"IEEE/ACM Transactions on Audio, Speech and Language Processing",Journal,B,IEEE,http://dblp.uni-trier.de/db/journals/taslp/
-8,人工智能,,IEEE Transactions on Cybernetics,Journal,B,IEEE,http://dblp.uni-trier.de/db/journals/tcyb/
+8,人工智能,IEEE Transactions on Cybernetics,IEEE Transactions on Cybernetics,Journal,B,IEEE,http://dblp.uni-trier.de/db/journals/tcyb/
 8,人工智能,TEC,IEEE Transactions on Evolutionary Computation,Journal,B,IEEE,http://dblp.uni-trier.de/db/journals/tec/
 8,人工智能,TFS,IEEE Transactions on Fuzzy Systems,Journal,B,IEEE,http://dblp.uni-trier.de/db/journals/tfs/
 8,人工智能,TNNLS,IEEE Transactions on Neural Networks and learning systems,Journal,B,IEEE,http://dblp.uni-trier.de/db/journals/tnn/
 8,人工智能,IJAR,International Journal of Approximate Reasoning,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/ijar/
 8,人工智能,JAIR,Journal of Artificial Intelligence Research,Journal,B,AAAI,http://dblp.uni-trier.de/db/journals/jair/index.html
-8,人工智能,,Journal of Automated Reasoning,Journal,B,Springer,http://dblp.uni-trier.de/db/journals/jar/
+8,人工智能,Journal of Automated Reasoning,Journal of Automated Reasoning,Journal,B,Springer,http://dblp.uni-trier.de/db/journals/jar/
 8,人工智能,JSLHR,"Journal of Speech, Language, and Hearing Research",Journal,B,American Speech-Language Hearing Association,http://jslhr.pubs.asha.org/
-8,人工智能,,Machine Learning,Journal,B,Springer,http://dblp.uni-trier.de/db/journals/ml/
-8,人工智能,,Neural Computation,Journal,B,MIT Press,http://dblp.uni-trier.de/db/journals/neco/
-8,人工智能,,Neural Networks,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/nn/
+8,人工智能,Machine Learning,Machine Learning,Journal,B,Springer,http://dblp.uni-trier.de/db/journals/ml/
+8,人工智能,Neural Computation,Neural Computation,Journal,B,MIT Press,http://dblp.uni-trier.de/db/journals/neco/
+8,人工智能,Neural Networks,Neural Networks,Journal,B,Elsevier,http://dblp.uni-trier.de/db/journals/nn/
 8,人工智能,PR,Pattern Recognition,Journal,B,Elsevier,http://dblp.uni-trier.de/db/conf/par/
 8,人工智能,TACL,Transactions of the Association for Computational Linguistics,Journal,B,The Association for Computational Linguistics,https://dblp.org/db/journals/tacl/index.html
 8,人工智能,AISTATS,International Conference on Artificial Intelligence and Statistics,Conference,C,JMLR,http://dblp.uni-trier.de/db/conf/aistats/
@@ -520,20 +520,20 @@
 8,人工智能,IJCNN,International Joint Conference on Neural Networks,Conference,C,IEEE,http://dblp.uni-trier.de/db/conf/ijcnn/
 8,人工智能,PRICAI,Pacific Rim International Conference on Artificial Intelligence,Conference,C,Springer,http://dblp.uni-trier.de/db/conf/pricai/
 8,人工智能,TALLIP,ACM Transactions on Asian and Low-Resource Language Information Processing,Journal,C,ACM,http://dblp.uni-trier.de/db/journals/talip/
-8,人工智能,,Applied Intelligence,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/apin/
+8,人工智能,Applied Intelligence,Applied Intelligence,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/apin/
 8,人工智能,AIM,Artificial Intelligence in Medicine,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/artmed/
-8,人工智能,,Artificial Life,Journal,C,MIT Press,http://dblp.uni-trier.de/db/journals/alife/
-8,人工智能,,Computational Intelligence,Journal,C,Wiley,http://dblp.uni-trier.de/db/journals/ci/
-8,人工智能,,Computer Speech & Language,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/csl/
-8,人工智能,,Connection Science,Journal,C,Taylor & Francis,http://dblp.uni-trier.de/db/journals/connection/
+8,人工智能,Artificial Life,Artificial Life,Journal,C,MIT Press,http://dblp.uni-trier.de/db/journals/alife/
+8,人工智能,Computational Intelligence,Computational Intelligence,Journal,C,Wiley,http://dblp.uni-trier.de/db/journals/ci/
+8,人工智能,Computer Speech & Language,Computer Speech & Language,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/csl/
+8,人工智能,Connection Science,Connection Science,Journal,C,Taylor & Francis,http://dblp.uni-trier.de/db/journals/connection/
 8,人工智能,DSS,Decision Support Systems,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/dss/
 8,人工智能,EAAI,Engineering Applications of Artificial Intelligence,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/eaai/
-8,人工智能,,Expert Systems,Journal,C,Blackwell /Wiley,http://dblp.uni-trier.de/db/journals/es/
+8,人工智能,Expert Systems,Expert Systems,Journal,C,Blackwell /Wiley,http://dblp.uni-trier.de/db/journals/es/
 8,人工智能,ESWA,Expert Systems with Applications,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/eswa/
-8,人工智能,,Fuzzy Sets and Systems,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/fss/
+8,人工智能,Fuzzy Sets and Systems,Fuzzy Sets and Systems,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/fss/
 8,人工智能,TG,IEEE Transactions on Games,Journal,C,IEEE,http://dblp.uni-trier.de/db/journals/tciaig/
 8,人工智能,IET-CVI,IET Computer Vision,Journal,C,IET,https://dblp.org/db/journals/iet-cvi/index.html
-8,人工智能,,IET Signal Processing,Journal,C,IET,https://dblp.org/db/journals/iet-spr/index.html
+8,人工智能,IET Signal Processing,IET Signal Processing,Journal,C,IET,https://dblp.org/db/journals/iet-spr/index.html
 8,人工智能,IVC,Image and Vision Computing,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/ivc/
 8,人工智能,IDA,Intelligent Data Analysis,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/ida/
 8,人工智能,IJCIA,International Journal of Computational Intelligence and Applications,Journal,C,World Scientific,http://dblp.uni-trier.de/db/journals/ijcia/
@@ -544,16 +544,16 @@
 8,人工智能,IJDAR,International Journal on Document Analysis and Recognition,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/ijdar/
 8,人工智能,JETAI,Journal of Experimental and Theoretical Artificial Intelligence,Journal,C,Taylor & Francis,http://dblp.uni-trier.de/db/journals/jetai/
 8,人工智能,KBS,Knowledge-Based Systems,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/kbs/
-8,人工智能,,Machine Translation,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/mt/
-8,人工智能,,Machine Vision and Applications,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/mva/
-8,人工智能,,Natural Computing,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/nc/
+8,人工智能,Machine Translation,Machine Translation,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/mt/
+8,人工智能,Machine Vision and Applications,Machine Vision and Applications,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/mva/
+8,人工智能,Natural Computing,Natural Computing,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/nc/
 8,人工智能,NLE,Natural Language Engineering,Journal,C,Cambridge University,http://dblp.uni-trier.de/db/journals/nle/
 8,人工智能,NCA,Neural Computing and Applications,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/nca/
 8,人工智能,NPL,Neural Processing Letters,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/npl/
-8,人工智能,,Neurocomputing,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/ijon/
+8,人工智能,Neurocomputing,Neurocomputing,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/ijon/
 8,人工智能,PAA,Pattern Analysis and Applications,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/paa/
 8,人工智能,PRL,Pattern Recognition Letters,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/prl/
-8,人工智能,,Soft Computing,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/soco/
+8,人工智能,Soft Computing,Soft Computing,Journal,C,Springer,http://dblp.uni-trier.de/db/journals/soco/
 8,人工智能,WI,Web Intelligence,Journal,C,IOS Press,http://dblp.uni-trier.de/db/journals/wias/
 8,人工智能,TIIS,ACM Transactions on Interactive Intelligent Systems,Journal,C,ACM,https://dblp.org/db/journals/tiis/index.html
 9,人机交互与普适计算,CSCW,ACM Conference on Computer Supported Cooperative Work and Social Computing,Conference,A,ACM,http://dblp.uni-trier.de/db/conf/cscw
@@ -571,7 +571,7 @@
 9,人机交互与普适计算,ICWSM,The International AAAI Conference on Web and Social Media,Conference,B,AAAI,https://dblp.org/db/conf/icwsm/index.html
 9,人机交互与普适计算,CSCW,Computer Supported Cooperative Work,Journal,B,Springer,http://dblp.uni-trier.de/db/journals/cscw/
 9,人机交互与普适计算,HCI,Human-Computer Interaction,Journal,B,Taylor & Francis,http://dblp.uni-trier.de/db/journals/hhci/
-9,人机交互与普适计算,,IEEE Transactions on Human-Machine Systems,Journal,B,IEEE,http://dblp.uni-trier.de/db/journals/thms/
+9,人机交互与普适计算,IEEE Transactions on Human-Machine Systems,IEEE Transactions on Human-Machine Systems,Journal,B,IEEE,http://dblp.uni-trier.de/db/journals/thms/
 9,人机交互与普适计算,IWC,Interacting with Computers,Journal,B,Oxford University Press,http://dblp.uni-trier.de/db/journals/iwc/
 9,人机交互与普适计算,IJHCI,International Journal of Human-Computer Interaction,Journal,B,Taylor &Francis,http://dblp.uni-trier.de/db/journals/ijhci/
 9,人机交互与普适计算,UMUAI,User Modeling and User-Adapted Interaction,Journal,B,Springer,http://dblp.uni-trier.de/db/journals/umuai/
@@ -581,7 +581,7 @@
 9,人机交互与普适计算,ASSETS,International ACM SIGACCESS Conference on Computers and Accessibility,Conference,C,ACM,http://dblp.uni-trier.de/db/conf/assets
 9,人机交互与普适计算,GI,Graphics Interface,Conference,C,ACM,http://dblp.uni-trier.de/db/conf/graphicsinterface/
 9,人机交互与普适计算,UIC,IEEE International Conference on Ubiquitous Intelligence and Computing,Conference,C,IEEE,http://dblp.uni-trier.de/db/conf/uic/
-9,人机交互与普适计算,,IEEE World Haptics Conference,Conference,C,IEEE,http://dblp.uni-trier.de/db/conf/haptics/
+9,人机交互与普适计算,IEEE World Haptics Conference,IEEE World Haptics Conference,Conference,C,IEEE,http://dblp.uni-trier.de/db/conf/haptics/
 9,人机交互与普适计算,INTERACT,International Conference on Human- Computer Interaction of International Federation for Information Processing,Conference,C,IFIP,http://dblp.uni-trier.de/db/conf/interact/
 9,人机交互与普适计算,IDC,ACM Interaction Design and Children,Conference,C,ACM,http://dblp.uni-trier.de/db/conf/acmidc/
 9,人机交互与普适计算,CollaborateCom,"International Conference on Collaborative Computing:Networking, Applications and Worksharing",Conference,C,Springer,https://dblp.uni-trier.de/db/conf/colcom/
@@ -605,8 +605,8 @@
 10,交叉/综合/新兴,ISMB,International conference on Intelligent Systems for Molecular Biology,Conference,B,Oxford Journals,https://dblp.org/db/conf/ismb/index.html
 10,交叉/综合/新兴,RECOMB,Annual International Conference on Research inComputational Molecular Biology,Conference,B,Springer,http://dblp.uni-trier.de/db/conf/recomb/
 10,交叉/综合/新兴,MICCAI,International Conference on Medical Image Computing and Computer-Assisted Intervention,Conference,B,Springer,https://dblp.org/db/conf/miccai/index.html
-10,交叉/综合/新兴,,Bioinformatics,Journal,B,Oxford University Press,http://dblp.uni-trier.de/db/journals/bioinformatics/
-10,交叉/综合/新兴,,Briefings in Bioinformatics,Journal,B,Oxford University Press,http://dblp.uni-trier.de/db/journals/bib/
+10,交叉/综合/新兴,Bioinformatics,Bioinformatics,Journal,B,Oxford University Press,http://dblp.uni-trier.de/db/journals/bioinformatics/
+10,交叉/综合/新兴,Briefings in Bioinformatics,Briefings in Bioinformatics,Journal,B,Oxford University Press,http://dblp.uni-trier.de/db/journals/bib/
 10,交叉/综合/新兴,Cognition,Cognition,Journal,B,Elsevier,http://www.journals.elsevier.com/cognition/
 10,交叉/综合/新兴,TASAE,IEEE Transactions on Automation Science and Engineering,Journal,B,IEEE,http://dblp.uni-trier.de/db/journals/tase/
 10,交叉/综合/新兴,TGARS,IEEE Transactions on Geoscience and Remote Sensing,Journal,B,IEEE,http://dblp.uni-trier.de/db/journals/tgrs/
@@ -616,8 +616,8 @@
 10,交叉/综合/新兴,TCBB,IEEE-ACM Transactions on Computational Biology and Bioinformatics,Journal,B,IEEE/ACM,http://dblp.uni-trier.de/db/journals/tcbb/
 10,交叉/综合/新兴,JCST,Journal of Computer Science and Technology,Journal,B,SCIENCE PRESS,http://dblp.uni-trier.de/db/journals/jcst/
 10,交叉/综合/新兴,JAMIA,Journal of the American Medical Informatics Association,Journal,B,BMJ Journals,http://dblp.uni-trier.de/db/journals/jamia/
-10,交叉/综合/新兴,,PLOS Computational Biology,Journal,B,Public Library of Science,http://dblp.uni-trier.de/db/journals/ploscb/
-10,交叉/综合/新兴,,The Computer Journal,Journal,B,Oxford University Press,http://dblp.uni-trier.de/db/journals/cj/
+10,交叉/综合/新兴,PLOS Computational Biology,PLOS Computational Biology,Journal,B,Public Library of Science,http://dblp.uni-trier.de/db/journals/ploscb/
+10,交叉/综合/新兴,The Computer Journal,The Computer Journal,Journal,B,Oxford University Press,http://dblp.uni-trier.de/db/journals/cj/
 10,交叉/综合/新兴,WWW,World Wide Web ,Journal,B,Springer,https://dblp.org/db/journals/www/index.html
 10,交叉/综合/新兴,FCS,Frontiers of Computer Science,Journal,B,Higher Education Press,http://dblp.uni-trier.de/db/journals/fcsc/
 10,交叉/综合/新兴,AMIA,American Medical Informatics Association Annual Symposium,Conference,C,AMIA,http://dblp.uni-trier.de/db/conf/amia/
@@ -630,17 +630,17 @@
 10,交叉/综合/新兴,SAGT,International Symposium on Algorithmic Game Theory,Conference,C,Springer,https://dblp.org/db/conf/sagt/index.html
 10,交叉/综合/新兴,SIGSPATIAL,ACM Special Interest Group on Spatial Information,Conference,C,ACM,https://dblp.org/db/journals/sigspatial/index.html
 10,交叉/综合/新兴,ICIC,International Conference on Intelligent Computing,Conference,C,Springer-Nature,https://dblp.org/db/conf/icic/index.html
-10,交叉/综合/新兴,,BMC Bioinformatics,Journal,C,BioMed Central,http://dblp.uni-trier.de/db/journals/bmcbi/
-10,交叉/综合/新兴,,Cybernetics and Systems,Journal,C,Taylor & Francis,http://dblp.uni-trier.de/db/journals/cas/
-10,交叉/综合/新兴,,IEEE Geoscience and Remote Sensing Letters,Journal,C,IEEE,http://dblp.uni-trier.de/db/journals/lgrs/
+10,交叉/综合/新兴,BMC Bioinformatics,BMC Bioinformatics,Journal,C,BioMed Central,http://dblp.uni-trier.de/db/journals/bmcbi/
+10,交叉/综合/新兴,Cybernetics and Systems,Cybernetics and Systems,Journal,C,Taylor & Francis,http://dblp.uni-trier.de/db/journals/cas/
+10,交叉/综合/新兴,IEEE Geoscience and Remote Sensing Letters,IEEE Geoscience and Remote Sensing Letters,Journal,C,IEEE,http://dblp.uni-trier.de/db/journals/lgrs/
 10,交叉/综合/新兴,JBHI,IEEE Journal of Biomedical and Health Informatics,Journal,C,IEEE,http://dblp.uni-trier.de/db/journals/titb/
 10,交叉/综合/新兴,TBD,IEEE Transactions on Big Data,Journal,C,IEEE,https://dblp.uni-trier.de/db/journals/tbd/
-10,交叉/综合/新兴,,IET Intelligent Transport Systems,Journal,C,IET,http://digital-library.theiet.org/content/journals/iet-its
+10,交叉/综合/新兴,IET Intelligent Transport Systems,IET Intelligent Transport Systems,Journal,C,IET,http://digital-library.theiet.org/content/journals/iet-its
 10,交叉/综合/新兴,JBI,Journal of Biomedical Informatics,Journal,C,Elsevier,https://dblp.uni-trier.de/db/journals/jbi/
-10,交叉/综合/新兴,,Medical Image Analysis,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/mia/
+10,交叉/综合/新兴,Medical Image Analysis,Medical Image Analysis,Journal,C,Elsevier,http://dblp.uni-trier.de/db/journals/mia/
 10,交叉/综合/新兴,TII,IEEE Transactions on Industrial Informatics,Journal,C,IEEE,https://dblp.org/db/journals/tii/index.html
 10,交叉/综合/新兴,TCPS,ACM Transactions on Cyber-Physical Systems,Journal,C,ACM,https://dblp.org/db/journals/tcps/index.html
 10,交叉/综合/新兴,TOCE,ACM Transactions on Computing Education,Journal,C,ACM,https://dblp.org/db/journals/jeric/index.html
 10,交叉/综合/新兴,FITEE,Frontiers of Information Technology & Electronic Engineering,Journal,C,Springer,https://dblp.org/db/journals/jzusc/index.html
 10,交叉/综合/新兴,TCSS,IEEE Transactions on Computational Social Systems,Journal,C,IEEE ,https://dblp.org/db/journals/tcss/index.html
-10,交叉/综合/新兴,,IEEE Transactions on Reliability,Journal,C,IEEE ,https://dblp.org/db/journals/tr/index.html
+10,交叉/综合/新兴,IEEE Transactions on Reliability,IEEE Transactions on Reliability,Journal,C,IEEE ,https://dblp.org/db/journals/tr/index.html
